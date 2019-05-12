@@ -1,0 +1,18 @@
+Suicide Statistics:
+	Possible Relations:
+	- Searches for Depression
+	- Happiness
+	- Alcohol Use
+
+Possible Graphs and Charts:
+* for charts or plots that are not progressive, do NOT sum the data up. Use one year instead.
+	For progressive years:
+	- Male vs Female Suicide Rates
+	- Progression of Suicide Rates
+
+	For 2016 only:
+	- World Suicide Geographic Plot
+	- World Happiness Geographic Plot
+	- World HDI Geographic Plot
+	- World Alcohol Consumption
+	- Suicide vs HDI/Happiness/Alcohol Scatterplot
